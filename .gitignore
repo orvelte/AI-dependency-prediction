@@ -1,0 +1,33 @@
+# Data — large files not committed
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*.parquet
+!data/interim/.gitkeep
+data/processed/*.parquet
+!data/processed/.gitkeep
+
+# Model artefacts
+outputs/model_artefacts/
+
+# Paper draft (private)
+paper/
+
+# AI assistant files
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Environment
+.env
+
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/

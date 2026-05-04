@@ -1,0 +1,4 @@
+threshold,n_positive,pos_rate,mean_auc,std_auc,top3_features
+1,8927,0.7143,0.6904,0.0149,"log_return_interval_hours, return_interval_hours, n_user_turns"
+2,3014,0.2412,0.7124,0.0145,"log_n_user_turns, log_return_interval_hours, fpp_rate"
+3,720,0.0576,0.7479,0.0414,"log_n_user_turns, fpp_rate, log_return_interval_hours"
