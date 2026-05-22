@@ -14,7 +14,7 @@ Can linguistic features extracted from early user sessions (sessions 1–3) pred
 
 ## Theoretical Framing
 
-Dependency-adjacent patterns are framed as the behavioural surface of the **goal-directed → habitual transition** — the same striatal dopamine-mediated process documented in substance use disorders (Dickinson, 1985; Everitt & Robbins, 2005). This grounds feature selection in a mechanistic process model rather than pure text classification.
+Dependency-adjacent patterns are framed as the behavioural surface of the **goal-directed → habitual transition** (the same striatal dopamine-mediated process documented in substance use disorders) (Dickinson, 1985; Everitt & Robbins, 2005). This grounds feature selection in a neuroscience-inspired mechanistic process model rather than pure text classification.
 
 Key operationalised behaviours:
 - Return interval (time between sessions)
