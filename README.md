@@ -1,5 +1,7 @@
 # Linguistic Markers of Dependency Formation in Longitudinal Human-AI Conversations
 
+[Read paper](https://github.com/orvelte/human-AI-dependency-prediction/blob/main/Linguistic%20Markers%20of%20Dependency%20Formation%20in%20Longitudinal%20Human.pdf)
+
 A computational NLP study identifying early-session linguistic features that predict dependency-adjacent interaction patterns in later sessions of human-AI chat. Using the WildChat-1M corpus, extracted lexical, pragmatic, and session-level features from users' first three sessions and tested the ability to classify users who exhibit high-dependency behaviour in sessions 10 + beyond.
 
 ---
